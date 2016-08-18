@@ -1,0 +1,2 @@
+# Slic_Opencv_Openmp
+超像素算法的opencv接口，并用Openmp加速，提供VS2013工程文件
